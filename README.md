@@ -1,4 +1,10 @@
-
+         IBM                               
+ASSIGNMENT1
+TEAMID:PNT2022TMID05133
+TEAMLEADER:K.AHAMED
+APSARKHAN(921319106006
+  
+  
 int t=2;
 
 inte=3;
@@ -72,3 +78,5 @@ digitalWrite(8,LOW);
 digitalWrite(7,LOW);
 }
 }
+
+
